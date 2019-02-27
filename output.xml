@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="11">
+<message class_id="0" tracking_level="0" version="0">
+	<release>10</release>
+	<expire>10</expire>
+	<priority>10</priority>
+	<han>10</han>
+	<content>Hello Serialization!!</content>
+	<age_>0</age_>
+</message>
